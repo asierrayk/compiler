@@ -1,0 +1,7 @@
+entero x.
+x = 3.
+booleano mayorCero.
+mayorCero = falso.
+si x > 0 entonces
+       mayorCero = cierto.
+fsi

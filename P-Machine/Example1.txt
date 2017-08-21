@@ -1,0 +1,8 @@
+>>Ejemplo funcion
+funcion masUno entero x es
+		x = x + 1.
+ffuncion
+
+entero y.
+y = 0.
+llamar masUno y.

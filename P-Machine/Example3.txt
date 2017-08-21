@@ -1,0 +1,12 @@
+entero a.
+entero b.
+entero c.
+
+a = 3.
+b = 2.
+
+si a > b entonces 
+	c = a.
+cc
+	c = b.
+fsi		
